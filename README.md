@@ -18,6 +18,17 @@ Olist is a Brazilian e-commerce platform that connects small businesses to major
 
 ---
 
+## 🎯 Problem Statement
+
+Olist, Brazil's largest e-commerce marketplace, had ~100,000 orders of raw transactional data scattered across 7 disconnected tables — customers, orders, payments, reviews, products, sellers, and order items. This made it difficult to answer fundamental business questions:
+
+- Where is platform revenue concentrated, and is that concentration a risk?
+- What actually drives customer satisfaction — price, category, or something operational?
+- Is the platform's growth trajectory accelerating, plateauing, or declining?
+- Which customers are at risk of churning, and which are loyal?
+
+This project builds a complete analytics pipeline — from raw data to an executive dashboard and short-term forecast — to answer these questions with data rather than assumption, and to surface findings a business stakeholder could act on directly.
+
 ## 🧰 Tech Stack
 
 | Stage | Tools |

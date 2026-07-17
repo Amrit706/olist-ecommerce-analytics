@@ -150,7 +150,7 @@ This project uses the **[Brazilian E-Commerce Public Dataset by Olist](https://w
 
 ## 👤 Author
 
-**[Amrit Kumar]**
+**Amrit Kumar**
 
 Built as an end-to-end data analytics portfolio project — from raw data to an executive dashboard and forecast.
 
